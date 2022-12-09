@@ -16,7 +16,7 @@
   "bugs": {
     "url": "https://github.com/MichaelBonnah/New_York/issues"
   },
-  "homepage": "https://github.com/MichaelBonnah/New_York",
+  "homepage": "https://michaelbonnah.github.io/New_York/",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
