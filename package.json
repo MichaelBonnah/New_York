@@ -1,5 +1,5 @@
 {
-  "name": "michael",
+  "name": "new_york",
   "version": "1.0.0",
   "description": "",
   "main": "index.js",
@@ -8,15 +8,15 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/MichaelBonnah/Michael.git"
+    "url": "git+https://github.com/MichaelBonnah/New_York.git"
   },
   "keywords": [],
   "author": "",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/MichaelBonnah.io/Michael"
+    "url": "https://github.com/MichaelBonnah/New_York/issues"
   },
-  "homepage": "https://github.com/MichaelBonnah.io/Michael",
+  "homepage": "https://github.com/MichaelBonnah/New_York",
   "dependencies": {
     "gh-pages": "^4.0.0"
   }
