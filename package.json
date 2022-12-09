@@ -1,0 +1,23 @@
+{
+  "name": "michael",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "deploy": "gh-pages -d dist"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MichaelBonnah/Michael.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MichaelBonnah.io/Michael"
+  },
+  "homepage": "https://github.com/MichaelBonnah.io/Michael",
+  "dependencies": {
+    "gh-pages": "^4.0.0"
+  }
+}
